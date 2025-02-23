@@ -1,0 +1,5 @@
+.env
+firebase_credentials.json
+credentials.json
+token.pickle
+__pycache__/

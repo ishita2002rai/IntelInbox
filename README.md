@@ -8,15 +8,15 @@ InboxIntel is an AI-powered email summarization tool that helps users quickly un
 - Fetches Gmail Emails - Retrieves only today's emails from the Primary inbox using the Gmail API.  
 - AI-Powered Summarization - Uses Google Gemini AI to summarize emails into bullet points.  
 - Interactive UI - Displays email summaries in an intuitive interface.  
-- Read & Read Later - Mark emails as Read (removes from list) or Read Later (highlights in blue).  
+- Read & Read Later - Mark emails as Read (removes from the list) or Read Later (highlights in blue).  
 - Smooth Animations - Includes hover effects and slide transitions for a clean UI experience.  
 - Secure & Private - Stores no email content; works with Firebase to manage data securely.  
 
 ---
 
 ## UI Screenshots
-![image](https://github.com/user-attachments/assets/f6c53923-d58a-49b4-bdf2-3d76767ec38c)
-![image](https://github.com/user-attachments/assets/799dbad1-7e0f-4fbc-899d-f748a4f9eb35)
+![image](https://github.com/user-attachments/assets/438046e5-65d5-45d5-823d-8d1241059622)
+![image](https://github.com/user-attachments/assets/575a341c-0ee9-4ace-be4e-079b6d1f8746)
 
 ---
 
